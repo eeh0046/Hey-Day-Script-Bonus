@@ -16,5 +16,5 @@ read name
 ### User is greeted by name:
 echo "Hey $name! War Eagle!"
 
-### Citations: 
+# Citations
 Stevison, L (2024) Lab 3 interaction.sh [Source code]. https://auburn.instructure.com/courses/1595837/assignments/15936125?module_item_id=31635567
