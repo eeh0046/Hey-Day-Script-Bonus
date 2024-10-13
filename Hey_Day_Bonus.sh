@@ -9,3 +9,5 @@ read name
 
 #User is greeted by name.
 echo "Hey $name! War Eagle!"
+
+# citations: 
